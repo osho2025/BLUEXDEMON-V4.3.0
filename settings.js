@@ -1,8 +1,8 @@
 const version = require("@whiskeysockets/baileys/package.json").version
 //Input number for pair code
-global.pairingNumber = "2348105978475"
+global.pairingNumber = "2348114226898"
 
-global.botNumber = ["2348105978475"]
+global.botNumber = ["2348114226898"]
 global.domain = "https://.nobodysey.me"
 global.apikey = "ptla_DfGlmoY7jCzmkNUgyK925FPVE08Kr4mxwLMep"
 global.capikey = "ptlc_GTm42E3qIwbLW3K9w3htljUvhGvnG71hoPTqE"
@@ -18,10 +18,10 @@ global.antidelete = true
 global.autotyping = false
 global.autoBio = true
 global.antiSpam = true
-global.sign = "🧑🏽‍💻"
+global.sign = "📯"
 // ☞ ➻ ➽ ☛ 〆 
 global.bank = "UBA"
-global.bankname = "DIVINE ESHIKOGHIE BELLO"
+global.bankname = "NANCY ODIOR BELLO"
 global.accnumber = "2340267307"
 global.language = "en"
 global.sessionName = "session"
@@ -41,7 +41,7 @@ global.wm = "𝐁𝐋𝐔𝐄𝐗𝐃𝐄𝐌𝐎𝐍 𝐕𝟒"
 global.fake = botName
 global.setmenu = "image" 
 global.docType = "application/vnd.ms-excel"
-global.themeemoji = '📸'
+global.themeemoji = '🎭'
 global.fotoRandom = [
 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbBBpaPJdt2V0Hab-7vJjlwr2NInRZ0hb6nA&usqp=CAU",
 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_KpekxrXL95vx4t9Ur6n4NRxxcrLAZWE-mA&usqp=CAU"]
